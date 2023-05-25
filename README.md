@@ -2,7 +2,7 @@
 
 <h3> Computer Science Student @ ITESM 🇲🇽 </h3>
 
-<h3> Currently interessted in: </h3>
+<h3> In love with ❤️: </h3>
 <ul> 
   <li> <h4> Full-Stack Development 👨‍💻  </h4> </li>
     <li><h4> Data Science 📊 </h4> </li> 
@@ -11,8 +11,11 @@
 
 <h3> Languagues I code with 😎 </h3>
 
-  <img alt="React" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+<p>
+  <img alt="Javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   
+  </p>
   
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
