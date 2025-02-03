@@ -53,9 +53,9 @@
  
 
  
-   <h3> LinkedIn and Resume </h3>
+   <h3> LinkedIn </h3>
  <p>
-  <a href="https://www.linkedin.com/in/einarlopez/" target="_blank"> <img alt="LinkedId" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>     <h4> <a href="https://github.com/EinarLop/EinarLop/edit/main/EinarLopezAltamiranoDS.pdf" target="_blank"> Resume 👨‍🎓</a> </h4> 
+  <a href="https://www.linkedin.com/in/einarlopez/" target="_blank"> <img alt="LinkedId" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> 
  </p>
  
 
