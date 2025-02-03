@@ -1,6 +1,6 @@
 <h1> Hello, I'm Einar 👋 </h1> 
 
-<h3> Erasmus Mundus Master’s student @ Åbo Akademi 🇲🇽 </h3>
+<h3> Erasmus Mundus Master’s student @ Åbo Akademi 🇫🇮 </h3>
 
 <h3> In love with ❤️ </h3>
 <ul> 
