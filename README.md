@@ -1,10 +1,9 @@
 <h1> Hello, I'm Einar 👋 </h1> 
 
-<h3> Computer Science Student @ ITESM 🇲🇽 </h3>
+<h3> Erasmus Mundus Master’s student @ Åbo Akademi 🇲🇽 </h3>
 
 <h3> In love with ❤️ </h3>
 <ul> 
-  <li> <h4> Full-Stack Development 👨‍💻  </h4> </li>
     <li><h4> Data Science 📊 </h4> </li> 
   <li> <h4> Machine Learning 👾 </h4></li>
 </ul>
@@ -20,6 +19,17 @@
   <img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
   
+ </p>
+
+   <h3> Frameworks, Libraries and other tools I use for Data Science and AI </h3>
+ <p>
+  <img alt="Numpy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
+  
+  <img alt="Scikit-Learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+
  </p>
  
  <h3> Frameworks, Libraries and other tools I use for Full-Stack Development </h3>
@@ -41,16 +51,7 @@
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" /> 
  </p>
  
-  <h3> Frameworks, Libraries and other tools I use for Data Science and AI </h3>
- <p>
-  <img alt="Numpy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
-  
-  <img alt="Scikit-Learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
 
- </p>
  
    <h3> LinkedIn and Resume </h3>
  <p>
